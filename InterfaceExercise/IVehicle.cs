@@ -12,8 +12,7 @@ namespace InterfaceExercise
         public int NumberOfWindows { get; set; }
         public int NumberOfSeats { get; set; }
         public bool HasRadio { get; set; }
-        public string CompanyName { get; set; }
-        public bool StillInBusiness { get; set; }
+       
 
 
     }
